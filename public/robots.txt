@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Indique l'emplacement du sitemap pour tous les robots
+Sitemap: https://edson4lawson.github.io/sitemap.xml
+
+
